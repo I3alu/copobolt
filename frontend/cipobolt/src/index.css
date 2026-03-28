@@ -1,0 +1,19 @@
+nav img {
+    width: 15%;
+}
+
+nav .nav-link {
+    color: white;
+}
+
+article button {
+    border: var(--red) 2px solid;
+    border-radius: 5px;
+    background-color: white;
+}
+
+article img {
+    width: 50%;
+    margin-bottom: 2vh;
+}
+
